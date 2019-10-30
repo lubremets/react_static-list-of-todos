@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,GACE,wBACF,CAEA,QACE,sBACF,CAEA,YACE,oBACF","file":"main.e3336e19.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\ntd {\n  background-color: rgb(200, 200, 200);\n}\n\n.active {\n  background-color: green;\n}\n\n.non-active {\n  background-color: red;\n}\n"]}
